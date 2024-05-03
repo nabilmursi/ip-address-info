@@ -16,7 +16,7 @@ To get started with this script, follow these steps:
 Clone the Repository:
 First, clone this repository to your local machine using Git:
 
-$ git clone https://github.com/yourusername/ipinfo-fetcher.git
+$ git clone https://github.com/nabilmursi/ip-address-info.git
 $ cd ipinfo-fetcher
 
 Navigate to the Project Directory:
